@@ -12,14 +12,7 @@ This is a Python project for an Investment Advisor that provides financial advic
 
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
-| Files/Folder| Description |
-| ------------- | ------------- |
-| **Excel Dashboard ana Analysis** | This file contains the excel worksheets and dashboard of the insights. |
-| **World Electricity IPYNB** | This file contains the ipynb code of the data cleaning part. |
-| **Project SQL Queries**  | This file provides SQL queries of the aggregation of the data   |
-| **Project PPT Files**  | This file provides the powerpoint presentation which contains all the major insights and conclusions.  |
-| **Raw Data Files**  | This folder provides the raw data for the analysis .  |
-| **Final CSV Files**  | This folder provides the final csv files after the data cleaning.  |
+
 
 <p align="center"><img src="https://genhq.com/wp-content/uploads/2018/03/MillennialsFinacialAdvising.gif" width="600" ></p>
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
