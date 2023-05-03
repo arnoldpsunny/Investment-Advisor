@@ -77,8 +77,18 @@ Python project for an Investment Advisor that provides financial advice to clien
     
      
   
-<img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" width="70" height="48"/> Screenshots
+# <img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" > Screenshots
 
-<p align="center"><a><img src="![Screenshot 2023-01-19 145949](https://user-images.githubusercontent.com/82110840/235897804-0829d2e2-e789-4b31-9104-bcf421e2b368.png)"</a></p> 
-<p align="center"><a><img src=""</a></p>
-<p align="center"><a><img src=""</a></p>  
+![Screenshot 2023-01-19 145949](https://user-images.githubusercontent.com/82110840/235900411-99252df1-c400-444d-9e70-114f7dfbb35a.png)
+![Screenshot 2023-01-19 150615](https://user-images.githubusercontent.com/82110840/235900859-25805811-cc1e-4c96-834a-cc76b5dce716.png)
+![Screenshot 2023-01-19 153753](https://user-images.githubusercontent.com/82110840/235900897-8f50af02-7cf9-4bff-bbfc-3d054a7639d8.png)
+![Screenshot 2023-05-03 164626](https://user-images.githubusercontent.com/82110840/235901420-871524c5-701c-441b-9384-52538fdd1d4f.png)
+
+# Conclusions
+
+Observed the KPI as Price to Earning.
+
+The best stock to invest is Adani groupd as per the data
+
+In ideal condition the income should be more then the expence as that allows the client to invest his money and get better returns
+
