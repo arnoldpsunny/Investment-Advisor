@@ -2,7 +2,7 @@
 # <img src= "https://www.stockbasket.com/blog/wp-content/uploads/2020/09/Investment-advisor-1.jpg" width="48" height="48"> **Investment Advisor**
 
 
-This is a Python project for an Investment Advisor that provides financial advice to clients. The project uses financial data to analyze the performance  of BSE stocks and find out the best stocks according to the given criterion. The amount for the investemnt is calculated from income/expence chart of the client and suggest the stocks best for the client to put his fortune into..
+Python project for an Investment Advisor that provides financial advice to clients. The project uses financial data to analyze the performance  of BSE stocks and find out the best stocks according to the given criterion. The amount for the investemnt is calculated from income/expence chart of the client and suggest the stocks best for the client to put his fortune into..
 
 
 
@@ -21,7 +21,8 @@ This is a Python project for an Investment Advisor that provides financial advic
 
 
 <p align="center"><img src="https://genhq.com/wp-content/uploads/2018/03/MillennialsFinacialAdvising.gif" width="600" ></p>
-##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
+
+##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> **Analysis**
 
     o       Calculated the amount avaliable for investment. 
     
@@ -33,8 +34,51 @@ This is a Python project for an Investment Advisor that provides financial advic
     
     o	Visualized the different sectors to per capita income
 
-    o	Defined a way to present the evolution of nuclear power presence based on Region and IncomeGroup.
+    o	Choose the key Performance Indicator as Price to Earnings.
     
-    o       Analysed production of electricity across different sources (nuclear, oil, etc.) as a function of time
+##  💻 Tools Used:
+
+    o       G-Spread    
     
-    o       Illustrated a way to calculated the average the average of electricition of countries in different areas
+    o	Pandas
+     
+    o	Numpy 
+    
+    o       Python    
+    
+    o	Matplotlib
+     
+    o	Seaborn 
+       
+    o	Google Spreadsheet
+    
+    
+   
+
+## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
+
+    1. Connect the Google Sheets by completing the authenticaation by enabling the API access.
+    
+    2. Import all the sheets from the Google sheets into seperate dataframe in python.
+    
+    3. Examine and study the given data.
+    
+    4. Create the necessary columns as per the requirments.
+    
+    5. Perform the calculation and plot the  necessary graphs.
+    
+    6. Understand and Analyse the data using the visualization techniques.
+    
+    7. Draw the insights from the graphs and data .
+    
+    8. Suggest the outputs from the data to the client
+    
+    9. Created a powerpoint presentation with all the insights and conclusions listed with the indepth analysis.
+    
+     
+  
+<img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" width="70" height="48"/> Screenshots
+
+<p align="center"><a><img src="![Screenshot 2023-01-19 145949](https://user-images.githubusercontent.com/82110840/235897804-0829d2e2-e789-4b31-9104-bcf421e2b368.png)"</a></p> 
+<p align="center"><a><img src=""</a></p>
+<p align="center"><a><img src=""</a></p>  
