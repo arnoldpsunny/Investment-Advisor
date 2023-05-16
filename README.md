@@ -15,7 +15,7 @@ Python project for an Investment Advisor that provides financial advice to clien
 | ------------- | ------------- |
 | **Investment Advisor IPYNB** | This file contains the ipynb code for the  project. |
 | **Project PPT Files**  | This file provides the powerpoint presentation which contains all the major insights and conclusions.  |
-| **Raw Data Files**  | This folder provides the raw data for the analysis .  |
+| **BSE500**  | The updated excel file which contains the date.  |
 
 
 
@@ -79,20 +79,18 @@ Python project for an Investment Advisor that provides financial advice to clien
   
 # <img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" > Screenshots
 
-#### --This Graph shows the Enterprice value of different market sector.
+#### --This Graph shows the Enterprice value of different market sector.Which shows that insurance sector are having high enterprice value out of 18 different sectors
 ![Screenshot 2023-01-19 145949](https://user-images.githubusercontent.com/82110840/235900411-99252df1-c400-444d-9e70-114f7dfbb35a.png)
-#### --Taking the Key Performance Indicator and decided price to Earning as the KPI and the Adani groups are leading. 
+#### --Taking the Key Performance Indicator and decided price to Earning as the KPI and the Adani groups are leading out of all the other companies. 
 ![Screenshot 2023-01-19 150615](https://user-images.githubusercontent.com/82110840/235900859-25805811-cc1e-4c96-834a-cc76b5dce716.png)
 #### --The automated page in google speradsheet where the value get updated.
 ![Screenshot 2023-01-19 153753](https://user-images.githubusercontent.com/82110840/235900897-8f50af02-7cf9-4bff-bbfc-3d054a7639d8.png)
-#### --The Three year positive return of different companies.
+#### --The 3- year positive return of different companies.Drugs and Pharma industries are  at the top.
 ![Screenshot 2023-05-03 164626](https://user-images.githubusercontent.com/82110840/235901420-871524c5-701c-441b-9384-52538fdd1d4f.png)
 
 # Conclusions
 
-Observed the KPI as Price to Earning.
-
-The best stock to invest is Adani groupd as per the data
-
-In ideal condition the income should be more then the expence as that allows the client to invest his money and get better returns
+Analyzed the data of BSE stock and plotted different graphs which shows various insights about the data and it would be very helpfull for a person who invest into those comapnies which gives maximum return.
+Observed  Price to Earning as the Key Performance Indicator and concluded that Adani group  are leading in the market and if invested in those companies the client would most probably get high returns.
+In ideal condition the income should be more then the expence as that allows the client to invest his money and get better returns.
 
