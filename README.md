@@ -24,17 +24,20 @@ Python project for an Investment Advisor that provides financial advice to clien
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> **Analysis**
 
-    o       Calculated the amount avaliable for investment. 
+    o       Calculated the amount avaliable for investment by the data given by the client which included the daily expenses in 
+            different ways.
     
-    o	Analysed the BSE stock of India.
+    o	Analysed the BSE stock of India,taking consideration different other KPI and got diversfied results in each of those.
      
-    o	Analysed 18 different sectors in the BSE data .
+    o	Analysed 18 different sectors in the BSE data and coccluded the insurance sector as the profitable when taking 
+            the enterprice value as the criterion.
   
-    o	Differentiated high,medium,low risk taking companies. 
+    o	Differentiated high,medium,low risk taking companies and listed out 5 companies in each group. 
     
-    o	Visualized the different sectors to per capita income
+    o	Visualized the different sectors to per capita income.
 
-    o	Choose the key Performance Indicator as Price to Earnings.
+    o	Choose the Key Performance Indicator as Price to Earnings and founded out that the  Adani groups are in 
+            the top of the market.
     
 ##  💻 Tools Used:
 
@@ -75,7 +78,8 @@ Python project for an Investment Advisor that provides financial advice to clien
     
     9. Created a powerpoint presentation with all the insights and conclusions listed with the indepth analysis.
     
-     
+
+
   
 # <img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" > Screenshots
 
@@ -91,6 +95,8 @@ Python project for an Investment Advisor that provides financial advice to clien
 # Conclusions
 
 Analyzed the data of BSE stock and plotted different graphs which shows various insights about the data and it would be very helpfull for a person who invest into those comapnies which gives maximum return.
+
 Observed  Price to Earning as the Key Performance Indicator and concluded that Adani group  are leading in the market and if invested in those companies the client would most probably get high returns.
+
 In ideal condition the income should be more then the expence as that allows the client to invest his money and get better returns.
 
