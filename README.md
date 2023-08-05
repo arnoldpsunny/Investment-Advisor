@@ -92,6 +92,13 @@ Python project for an Investment Advisor that provides financial advice to clien
 #### --The 3- year positive return of different companies.Drugs and Pharma industries are  at the top.
 ![Screenshot 2023-05-03 164626](https://user-images.githubusercontent.com/82110840/235901420-871524c5-701c-441b-9384-52538fdd1d4f.png)
 
+
+# Challenges Faced
+Referencing spreadsheet into our python code to make the data accessible.
+API linking and google permissions & authentication.
+Datatype conversion in few columns.
+Visualising data using matplotlib.
+
 # Conclusions
 
 Analyzed the data of BSE stock and plotted different graphs which shows various insights about the data and it would be very helpfull for a person who invest into those comapnies which gives maximum return.
