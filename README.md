@@ -95,9 +95,12 @@ Python project for an Investment Advisor that provides financial advice to clien
 
 # Challenges Faced
 Referencing spreadsheet into our python code to make the data accessible.
+
 API linking and google permissions & authentication.
+
 Datatype conversion in few columns.
-Visualising data using matplotlib.
+
+Visualizing data using matplotlib.
 
 # Conclusions
 
